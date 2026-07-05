@@ -1,5 +1,10 @@
-<div align="right">
-  <a href="README.md">English</a> | <a href="README_CN.md">中文</a>
+<div align="center">
+  <div>
+    <a href="README.md">English</a> | <a href="README_CN.md">中文</a>
+  </div>
+  <div style="margin-top: 10px; font-size: 14px;">
+    官方网站：<a href="https://gpt-image2-prompt.com" target="_blank">https://gpt-image2-prompt.com</a>
+  </div>
 </div>
 
 # 🎨 Awesome GPT Image Prompts
