@@ -13770,6 +13770,7 @@ Infographic of monsters encountered in the 81 tribulations of Journey to the Wes
 ---
 
 ### 325. 超清电影级图片画质高清修复
+- [PromptImage](https://promptimage.cloud)：Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
 
 <img src="images/ona_0199.jpg" alt="超清电影级图片画质高清修复" width="600"/>
 
