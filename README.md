@@ -13771,6 +13771,9 @@ Infographic of monsters encountered in the 81 tribulations of Journey to the Wes
 
 ### 325. 超清电影级图片画质高清修复
 - [PromptImage](https://promptimage.cloud)：Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [Alors On Danse Video Maker](https://alorsondansevideo.com): Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
+- [Bad Times AI](https://badtimesai.dev): Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com): Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
 
 <img src="images/ona_0199.jpg" alt="超清电影级图片画质高清修复" width="600"/>
 
